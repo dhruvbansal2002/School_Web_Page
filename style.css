@@ -1,0 +1,133 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+    z-index: 0px;
+}
+
+#school_name {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#ff9705 0%, #2007fa 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+
+.video {
+    width: 80%;
+}
+
+
+input {
+    background: grey;
+}
+
+.nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#img_blue {
+    height: 100px;
+    width: 100px;
+}
+
+#img_green {
+    height: 100px;
+    width: 100px;
+}
+
+#img_red {
+    height: 100px;
+    width: 100px;
+}
+
+#img_yellow {
+    height: 100px;
+    width: 100px
+}
+
+#map {
+    width: 100%;
+}
+
+#img {
+    text-align: center;
+
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right;
+    
+}
+
+.movie_text span{
+    color: blue;
+    
+}
+
+.whats_new_li {
+    margin-top: 13px;
+}
+.whats_new_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.whats_new_li img{
+    border-radius: 25px;
+    
+}
+.whats_new_li p{
+    margin-top: 10px;
+    
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
